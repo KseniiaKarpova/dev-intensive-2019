@@ -1,0 +1,2 @@
+rootProject.name='Def-intensive'
+include ':app'
